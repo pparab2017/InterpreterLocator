@@ -1,0 +1,20 @@
+﻿.nav .glyphicon {font-size: .75em; }
+
+.nav > li > a { padding: 8px 15px; }
+/*.nav > li > a:last-child {padding-bottom: 1.5em;  }*/
+
+/* 1st level */
+.nav label {color: inherit;	cursor:pointer; }
+.nav{ /*font-size:13px; padding-left:20px; */}
+.nav label { padding-top: .5em; }
+.nav {color: #555; }
+
+.sidenav ul:last-child { border-bottom: 1px solid #eee; /*padding: .2em 0;*/ }
+.sidenav {padding: 20px; margin: 20px 0; border: 1px solid #eee; border-left-width: 5px; /*border-right-width: 5px;*/ border-radius: 3px;
+-webkit-box-shadow: 10px 0 5px -2px #888; box-shadow: 2px 0 3px -2px #ccc;}
+.sidenav-colored {border-left-color: #d4e9ff;}
+
+/* 2nd level */
+.tree > li > label { margin-left:1.5em; padding-top: .5em;  color: #888; /*border-bottom: 1px solid #fff; padding: .2em 0;*/ }
+/* 3rd level */
+.tree > li > ul > li > a {font-size:.9em; margin-left: 2em; }

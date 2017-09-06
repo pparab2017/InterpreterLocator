@@ -1,0 +1,7 @@
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\bin\Debug\Entities.dll
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\bin\Debug\Entities.pdb
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\DataAccess\obj\Debug\DataAccess.pdb

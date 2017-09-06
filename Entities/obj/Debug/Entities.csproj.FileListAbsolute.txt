@@ -1,0 +1,5 @@
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\Entities\bin\Debug\Entities.dll
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\Entities\bin\Debug\Entities.pdb
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\Entities\obj\Debug\Entities.dll
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\Entities\obj\Debug\Entities.pdb
+C:\Users\Ishita\Documents\Visual Studio 2015\Projects\InterpreterLocator\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
